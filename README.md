@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/Nabster2010/Frontend-Mentor---Advice-generator-app)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://advice-generator-app-seven.vercel.app/)
 
 ## My process
 
